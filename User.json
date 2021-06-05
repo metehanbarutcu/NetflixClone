@@ -1,0 +1,22 @@
+[
+	{
+		"UserName": "Metehan",
+		"UserSurname": "Barutcu",
+		"UserEmail": "metehanbarutcu@gmail.com",
+		"Password": "mb123456"
+	},
+
+	{
+		"UserName": "Muhammet",
+		"UserSurname": "Çaðatay",
+		"UserEmail": "mcagatay@gmail.com",
+		"Password": "mc112233"
+	},
+
+	{
+		"UserName": "Ali",
+		"UserSurname": "Demir",
+		"UserEmail": "alidemir@gmail.com",
+		"Password": "ali789"
+	}
+]
