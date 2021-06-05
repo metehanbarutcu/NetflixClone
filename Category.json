@@ -1,0 +1,38 @@
+[
+	{
+		"CategoryName": "Dram",
+		"Desc": "Trajik film ve diziler..",
+		"ImageUrl": ""
+	},
+
+	{
+		"CategoryName": "Macera",
+		"Desc": "Macera dolu film ve diziler..",
+		"ImageUrl": ""
+	},
+
+	{
+		"CategoryName": "Bilim Kurgu",
+		"Desc": "Olaðanüstü film ve diziler..",
+		"ImageUrl": ""
+	},
+
+	{
+		"CategoryName": "Komedi",
+		"Desc": "Kahkaha dolu film ve diziler..",
+		"ImageUrl": ""
+	},
+
+	{
+		"CategoryName": "Aksiyon",
+		"Desc": "Bol gerilimli aksiyon dolu film ve diziler..",
+		"ImageUrl": ""
+	},
+
+	{
+		"CategoryName": "Biyografi",
+		"Desc": "Hayat hikayeli film ve diziler..",
+		"ImageUrl": ""
+	}
+
+]
