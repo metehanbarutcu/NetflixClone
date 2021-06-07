@@ -2,7 +2,7 @@
 	{
 		"CategoryId" : 1,
 		"CategoryName": "Dram",
-		"Desc": "Trajik film ve diziler..",
+		"Desc": "Trajedi ve dram dolu film ve diziler..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/dram.jpg"
 	},
 
@@ -16,7 +16,7 @@
 	{
 		"CategoryId" : 3,
 		"CategoryName": "Bilim Kurgu",
-		"Desc": "Olaðanüstü film ve diziler..",
+		"Desc": "OlaÄ‘anÃ¼stÃ¼ film ve diziler..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/scifi.jpg"
 	},
 
