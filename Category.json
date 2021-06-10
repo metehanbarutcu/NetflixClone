@@ -16,7 +16,7 @@
 	{
 		"CategoryId" : 3,
 		"CategoryName": "Bilim Kurgu",
-		"Desc": "Olaðanüstü film ve diziler..",
+		"Desc": "Olaganustu film ve diziler..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/scifi.jpg"
 	},
 
@@ -49,7 +49,7 @@
 	{
 		"CategoryId" : 8,
 		"CategoryName": "Tarih",
-		"Desc": "Tarihe damga vuran olaylarýn hikayeleri..",
+		"Desc": "Tarihe damga vuran olaylarin hikayeleri..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/history.jpg"
 	}
 
