@@ -601,6 +601,44 @@
 		"Director": "Zack Snyder",
 		"IMDB": "6,6",
 		"Plot": "Sparta Kralı, son derece kuvvetli bir ordu ile karşı karşıyadır çünkü Pers Kralı Xerxes, sahip olduğu gücü, çoktan Yunan Krallıkları üzerine salmıştır. Sparta Kralı, bu durumla baş edebilmek için çareyi yürekleri kocaman olan cesur 300 askerini toplamakta bulur.Tanrıları savaşa ikna edememiştir. Bu savşaçı yetiştirilmiş 300 asker, şartların zorluğuna rağmen ve ölmek pahasına Thermopylaede Perslilerle savaşmaya hazırdır. Öte yandan konsey savaşmama kararı alarak bir hata yapar. Bu durumun da üstesinden gelip ordunun savaşa gitmesini beklemeleri gerekecektir. Zack Synder yönetmenliğindeki film, Fran Millerin romanından uyarlanmıştır"
+	},
+	{
+		"FilmName": "Deadpool",
+		"Country": "ABD",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/sparta.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/spartaHeader.jpg",
+		"Type": "Macera",
+		"CategoryId" : 2,
+		"Duration": "1 sa 48dk",
+		"ReleaseDate": "12 Şubat 2016",
+		"Director": "Tim Miller",
+		"IMDB": "8,0",
+		"Plot": "Eski bir özel kuvvetler görevlisi olan Wade Wilson ordudan ayrıldıktan sonra kendi çöplüğünde, kendi kurallarına göre takılan, kötünün iyisi bir adamdır. Hayatına yeni giren Vanessa ile harika bir uyumu varken bir şeylerin tam da yolunda gittiğni düşünürken, kanser olduğu gerçeğiyle yüz yüze kalır. Sevdiği kadını bu acılı süreci izlemekten kurtarmak için onu terk eden Wade, kendisine tedavi umudu sunan bir bilimsel projeye katılır. Fakat bu proje sadece bir 'yan etki' olarak kansere tedavi olacaktır. Asıl amaç birtakım DNAları tetiklemektir. Akla gelmeyecek acılara göğüs geren Wade, her şey sona erdiğinde üstün yetenkelere sahip olur. Fakat tüm bu özellikleriyle tek bir amacı vardır, Ajax Francisten intikam almak! Hayatından kimi kesitleri de bizlerle paylaşan kahramanın intikam öyküsünde Profesör Xin ekibinden erdemli Colossus ve ergenlik çağındaki Negasonic Teenage Warhead de ona eşlik ediyor.\n Anti-kahraman Deadpool karakteri kendi filminde, X Men Origins: Wolverinede karşımıza çıkan Deadpooldan daha farklı bir yapıya sahip. Marvel Stüdyoları'nın hayata geçirdiği projede yönetmenliği Tim Miller üstlenirken, senaryo Rhett Reese ve Paul Wernick ikilisine ait. Filmde Wade Wilson / Deadpool karakterini canlandıran isimse Ryan Reynolds. Kadroda kendisine Morena Baccarin, Gina Carano, Ed Skrein, Brianna Hildebrand ve T.J. Miller da bulunuyor."
+	},
+	{
+		"FilmName": "Deadpool 2",
+		"Country": "ABD",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/sparta.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/spartaHeader.jpg",
+		"Type": "Macera",
+		"CategoryId" : 2,
+		"Duration": "2 saat",
+		"ReleaseDate": "18 Mayıs 2018",
+		"Director": "David Leitch",
+		"IMDB": "7,7",
+		"Plot": "Deadpool, kahramanlık işlerini devam ettirmekte, bir yandan da gündelik hayatını sürdürmektedir. Kız arkadaşı Vanessayla mutlu bir ilişki sürdüren Deadpoolun düzeni, gelecekten gelen Cableın ortaya çıkışıyla sarsılır. Cable gelecekte tehdit oluşturacak bir çocuğun peşindedir. Deadpool, Cableı durdurabilmek için süper güçlere sahip bir ekibi toplar ve bu aykırı karakterlerden oluşan X-Force ekibi, Deadpoolla birlikte maceraya atılır."
+	},
+	{
+		"FilmName": "Aykut Enişte",
+		"Country": "Türkiye",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/sparta.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/spartaHeader.jpg",
+		"Type": "Komedi",
+		"CategoryId" : 4,
+		"Duration": "1 sa 55dk",
+		"ReleaseDate": "24 Mayıs 2019",
+		"Director": "Onur Bilgetay",
+		"IMDB": "7,1",
+		"Plot": "Aykut Enişte, yalnızlığından şikayetçi olan ve aile özlemi çeken bir adam olan Aykut'un hikayesini konu ediyor. Aykut, evlenip yuva kurmanın hayali ile yaşayan genç bir adamdır. Sevgili Nurhan ile hayallerini gerçekleştirmeye adım adım yaklaşan Aykut, beklenmedik bir durumla karşı karşıya kalır. Düğüne bir hafta kala dükkanına hırsız giren Aykut, tüm birikimini kaybeder. Dükkana hırsızın girmesi, sadece Aykutun maddi kaybına neden olmaz aynı zamanda başına türlü işler açılmasına da neden olur. Dükkana bakmak için sigortadan gelen Gülşahın, Aykuttan küçük bir iyilik istemesi hepsinin hayatının değişmesine neden olur. Kendi halinde kimsesiz bir adam olan Aykut, bir anda kendisini iki ailenin damadı olarak bulur. Aykut, içine düştüğü bu karışık durumdan kendisini kurtarmayı başarabilecek midir?"
 	}
-	
 ]
