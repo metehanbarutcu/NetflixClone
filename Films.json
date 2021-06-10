@@ -512,10 +512,10 @@
 		"Plot": "Genç bir kızın esrarengiz bir şekilde öldürülmesinin ardından küçük Alaska kenti türlü haberlerle çalkalanmaktadır. Bu cinayetin ardında yatan gizemi çözmek için göreve getirilen Will Dormer ve Hap Eckhart isimli iki dedektif, Los Angeles'tan Alaska'ya doğru yolculuğa çıkarlar. Yaptıkları araştırmalar sonrasında bir şüpheliye ulaşan ikili, şüpheli yazar Walter Finch'in peşine düşer. Bu sırada yaşadıkları bir çatışma sonrasında Hap Eckhart ölür ve Finch de izini kaybettirir. Fazlasıyla öfke dolan Dormer yanına yeni bir yardımcı alarak intikam ve adalet peşinde koşmaya başlar. Filmin yönetmen koltuğunda 'Memento' filmiyle büyük bir ilgi toplayan Christopher Nolan bulunuyor."
 	},
 	{
-		"FilmName": "Çelik Adam",
+		"FilmName": "Çelik Adam (Men of Steel)",
 		"Country": "ABD, İngiltere",
-		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/manofsteel.jpg",
-		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/manofsteel_header.jpg",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/menofsteel.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/menofsteel_header.jpg",
 		"Type": "Macera",
 		"CategoryId" : 2,
 		"Duration": "2sa 23dk",
@@ -536,6 +536,71 @@
 		"Director": "Paul Scheuring",
 		"IMDB": "8,3",
 		"Plot": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrowsa yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar."
+	},
+	{
+		"FilmName": "Midway",
+		"Country": "ABD",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/midway.png",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/midwayHeader.jpg",
+		"Type": "Tarih",
+		"CategoryId" : 8,
+		"Duration": "2 sa 19dk",
+		"ReleaseDate": "30 Kasım 2019",
+		"Director": "Roland Emmerich",
+		"IMDB": "6,7",
+		"Plot": "Midway, II. Dünya Savaşı sırasında Amerika Birleşik Devletleri ve Japonya İmparatorluğu arasında yapılan Midway Muharebesini konu ediniyor. Filmde, savaşın seyrini değiştiren askerlerin kahramanlık hikayesine odaklanılıyor. Midway Muharebesi, 2. Dünya Savaşı için bir dönüm noktası kabul ediliyor. Liderlerin ve askerlerin, içgüdüleri ve cesaretleriyle verdikleri mücadele, Pasifik Cephesindeki savaşın seyrinin değişmesine neden olur. Kurtuluş Günü, Yarından Sonra, 2012, Beyaz Saray Düştü gibi yapımların yönetmen koltuğuna geçen usta isim Roland Emmerichin yönetmenliğini üstlendiği filmin kadrosunda Patrick Wilson, Ed Skrein, Luke Evans, Woody Harrelson gibi isimler yer alıyor."
+	},
+	{
+		"FilmName": "Saving Private Ryan",
+		"Country": "ABD",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/ryan.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/ryanHeader.jpg",
+		"Type": "Tarih",
+		"CategoryId" : 8,
+		"Duration": "2 sa 43dk",
+		"ReleaseDate": "11 Eylül 1998",
+		"Director": "Steven Spielberg",
+		"IMDB": "8,6",
+		"Plot": "Er Ryanı Kurtarmak'ta, dört çocuk annesi bir kadı İkinci Dünya Savaşında kaybettiği üç oğlunun ardından fazlasıyla yaralanmıştır. Şimdi tek dileği hayatta kalan tek oğlunun savaştan sağ salim dönmesidir. Yakarışları karşılık bulur ve Başkan tarafından verilen bir emirle James Ryanın ne pahasına olursa olsun bu savaştan sağ çıkması sağlanacaktır. Normandiya çıkarmasının yapıldığı gün, sekiz kişilik bir asker birliği farklı bir göreve, Ryanı kurtarma görevine atanır. Ancak yüzbaşı John Miller tarafından yönetilen bu birim, can pazarının yaşandığı bu zorlu ortamda hakikatli bir yaşam mücadelesine atılacak; tek bir adamı kurtarmak için sekiz kişinin hayatının tehlikeye atılmasının meşruluğunu sorgulayacaktır."
+	},
+	{
+		"FilmName": "1917",
+		"Country": "İngiltere",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/1917.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/1917Header.jpg",
+		"Type": "Tarih",
+		"CategoryId" : 8,
+		"Duration": "1 sa 59dk",
+		"ReleaseDate": "-2019",
+		"Director": "Sam Mendes",
+		"IMDB": "8,3",
+		"Plot": "1917, I. Dünya Savaşı sırasında askerlerin hayatını etkileyecek önemde bir mesajı iletmekle görevlendirilen iki askerin hikayesini konu ediyor. I. Dünya Savaşı sırasında Britanya askeri olan Kıdemsiz Onbaşı Schofield ve Kıdemsiz Onbaşı Blake, gerçekleştirilmesi imkansız gibi görünen bir göreve atanır. Görevleri, zamana karşı yarışırken düşman bölgesini geçerek yüzlerce askerin ölümünü engellemek üzere bir mesaj iletmektir. Blakein kardeşi de kurtarılabilecek askerlerin arasındadır. Bu durumda Blakei daha da fazla ciddiye alması gereken bir mücadele bekliyordur."
+	},
+	{
+		"FilmName": "Piyanist",
+		"Country": "Almanya, İngiltere, Fransa, Polonya",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/pianist.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/pianistHeader.jpg",
+		"Type": "Tarih",
+		"CategoryId" : 8,
+		"Duration": "2 sa 28dk",
+		"ReleaseDate": "28 Şubat 2003",
+		"Director": "Roman Polanski",
+		"IMDB": "8,5",
+		"Plot": "Piyanist, İkinci Dünya Savaşı sırasında yaşanan gerçek bir dramı konu alır. Polonyalı ünlü piyanist Wladyslaw Szpilmanın anılarını anlattığı aynı isimli kitaptan sinemaya uyarlanan film, Nazi işgali altındaki Polonyada yaşamanın imkansızlaştırıldığı bir dönemde, bir şekilde esir kampına gitmekten kurtulan ünlü piyanistin Varşovanın kenar mahallelerindeki hayatta kalma mücadelesine odaklanır. Varoşlarda tam anlamıyla sefil bir hayat süren müzisyen, diğer halkla birlikte, kıtlığa ve aşağılanmalara maruz kalsa da kahramanca mücadele edecektir. Günü gelip oradan kaçma şansı bulduğundaysa başkentin harabelerine sığınacak, beklemediği bir anda gelen bir yardımla umudunu yeniden kazanacaktır. Film, En İyi Erkek Oyuncu dalında Oscar alan Adrien Brodynin de filmografisinin en güçlü işlerinden biri"
+	},
+	{
+		"FilmName": "300 Spartalı",
+		"Country": "ABD",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/sparta.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/spartaHeader.jpg",
+		"Type": "Tarih",
+		"CategoryId" : 8,
+		"Duration": "2 sa 28dk",
+		"ReleaseDate": "16 Mart 2007",
+		"Director": "Zack Snyder",
+		"IMDB": "6,6",
+		"Plot": "Sparta Kralı, son derece kuvvetli bir ordu ile karşı karşıyadır çünkü Pers Kralı Xerxes, sahip olduğu gücü, çoktan Yunan Krallıkları üzerine salmıştır. Sparta Kralı, bu durumla baş edebilmek için çareyi yürekleri kocaman olan cesur 300 askerini toplamakta bulur.Tanrıları savaşa ikna edememiştir. Bu savşaçı yetiştirilmiş 300 asker, şartların zorluğuna rağmen ve ölmek pahasına Thermopylaede Perslilerle savaşmaya hazırdır. Öte yandan konsey savaşmama kararı alarak bir hata yapar. Bu durumun da üstesinden gelip ordunun savaşa gitmesini beklemeleri gerekecektir. Zack Synder yönetmenliğindeki film, Fran Millerin romanından uyarlanmıştır"
 	}
 	
 ]
