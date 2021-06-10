@@ -605,8 +605,8 @@
 	{
 		"FilmName": "Deadpool",
 		"Country": "ABD",
-		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/sparta.jpg",
-		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/spartaHeader.jpg",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/deadpool.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/deadpoolHeader.jpg",
 		"Type": "Macera",
 		"CategoryId" : 2,
 		"Duration": "1 sa 48dk",
@@ -618,8 +618,8 @@
 	{
 		"FilmName": "Deadpool 2",
 		"Country": "ABD",
-		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/sparta.jpg",
-		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/spartaHeader.jpg",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/dp2.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/dp2Header.jpg",
 		"Type": "Macera",
 		"CategoryId" : 2,
 		"Duration": "2 saat",
@@ -631,8 +631,8 @@
 	{
 		"FilmName": "Aykut Enişte",
 		"Country": "Türkiye",
-		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/sparta.jpg",
-		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/spartaHeader.jpg",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/aykutEniste.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/aykutEnisteHeader.jpg",
 		"Type": "Komedi",
 		"CategoryId" : 4,
 		"Duration": "1 sa 55dk",
