@@ -2,7 +2,7 @@
 	{
 		"CategoryId" : 1,
 		"CategoryName": "Dram",
-		"Desc": "Trajedi ve dram dolu film ve diziler..",
+		"Desc": "Trajik film ve diziler..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/dram.jpg"
 	},
 
@@ -16,7 +16,7 @@
 	{
 		"CategoryId" : 3,
 		"CategoryName": "Bilim Kurgu",
-		"Desc": "OlaÄ‘anÃ¼stÃ¼ film ve diziler..",
+		"Desc": "Olaðanüstü film ve diziler..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/scifi.jpg"
 	},
 
@@ -39,5 +39,18 @@
 		"CategoryName": "Biyografi",
 		"Desc": "Hayat hikayeli film ve diziler..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/biography.jpg"
+	},
+	{
+		"CategoryId" : 7,
+		"CategoryName": "Gerilim",
+		"Desc": "Gerilim ve adrenalinli film ve diziler..",
+		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/thriller.jpg"
+	},
+	{
+		"CategoryId" : 8,
+		"CategoryName": "Tarih",
+		"Desc": "Tarihe damga vuran olaylarýn hikayeleri..",
+		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/history.jpg"
 	}
+
 ]
