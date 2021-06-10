@@ -1,5 +1,20 @@
 ﻿[
 	{
+		"FilmName": "Breaking Bad",
+		"Country": "ABD",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/brba.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/brbaHeader.jpg",
+		"Type": "Dram",
+		"CategoryId" : 1,
+		"Duration": "5 sezon - 62 bolum / 42dk",
+		"ReleaseDate": "2008-2013",
+		"Director": "Vince Gilligan",
+		"IMDB": "9,5",
+		"Plot": "Lisede kimya öğretmenliği yapan Walter White bir gün doktordan ileri safhada akciğer kanseri olduğunu öğrenir. Kendisinden sonra geride kalan ailesine maddi birikim sağlamak isteyen Walter White, uyuşturucu yapımında ustalaşan eski bir öğrencisi, Jesse Pinkman ile beraber uyuşturucu işine girer. Elbetteki yasa dışı yollardan ve uyuşturucunun da eş anlamlısının bela olduğunu bilerek... Bir yanda kimya alanında önemli işlere imza atmış bir öğretmen, diğer yanda bu tehlikeli piyasayı çok iyi tanıyan, gözü pek bir 'eski öğrenci'... Yüksek kalitede ve saflıkta ürettikleri metamfetamin, onları uyuşturucu ticaretinin en riskli yollarına da bulaştıracak... Başrollerini deneyimli aktör Bryan Cranston veAaron Paulun paylaştığı Breaking Bad, orijinal öyküsü ve sürükleyici senaryosunun yanı sıra oyuncularına kazandırdığı Altın Küre adaylıkları, Emmy ve Saturn ödülleriyle de televizyon dizileri arasında kalitesini ve farkını belli eden bir yapım... 1990lı yılların kült bilim-kurgu dizisi The X Filesın ortak yapımcıları ve yazarları arasında yer alan Vince Gilliganın yapımcılığını üstlendiği dizi eleştirmenler tarafından da son yılların en başarılı yapımlarından biri olarak gösteriliyor..."
+		
+	},
+	
+	{
 		"FilmName": "Babam ve Oğlum",
 		"Country": "Türkiye",
 		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/babamveoglum.jpg",
@@ -484,7 +499,7 @@
 		"Plot": "Yeni romanı için aradığı ilhamı bir türlü bulamamış genç yazar, sokaklarda dolaşıp insanların peşinde dolanmakta, kendine esin kaynağı aramaktadır. Bill takma adıyla dolaşan genç yazar, bir gün siyah takım elbiseli, şık giyimli bir adamın peşine takılır. Takıntı haline getirdiği Cobb ismindeki gençle sonunda tanışan Bill, Cobb'un profesyonel bir hırsız olduğunu öğrenir. Cobb'un yaşam tarzından çok etkilenen Bill, sarışın çekici bir kadınla da tanışınca yavaş yavaş ait olmadığı suç dünyasının içine çekilecektir. Christopher Nolan?ın ?femme fatale? temasından karanlık, daraltıcı mekan atmosferine kadar birçok klasik film-noir öğesi barındıran filmi Takip?te, yönetmen bu klasik temaları alıp daha ilk filminden oluşturduğu kendine has sinemacılığıyla birleştirip başarılı bir kolaj yapıyor. İlk yapıtı Following, gerek senaryosu, kurgusu, gerekse görüntülerinin kalitesiyle ileride ne kadar başarılı bir sinemacı olacağının ve kaliteli işlere imza atacağının sinyallerini vermiş. Nolan'ın filmi yok denecek kadar az bir bütçeyle, ailesini ve arkadaşlarını oynatarak çektiğini belirtelim."
 	},
 	{
-		"FilmName": "Insomnia",
+		"FilmName": "Uykusuz (Insomnia)",
 		"Country": "ABD",
 		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/insomnia.jpg",
 		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/insomnia_header.jpg",
@@ -508,6 +523,19 @@
 		"Director": "Cristopher Nolan",
 		"IMDB": "7,0",
 		"Plot": "DC Comics'in en meşhur süper kahramanı olan Superman'in köklerine, geçmişine dönerek kahramana farklı bir bakış açısı getiren son filmin yönetmenliğini Zack Snyder üstleniyor; filmin senaryosu ise David S. Goyer'e ait. Filmde Clark Kent'i Henry Cavill, kötü adamı General Zod'u Michael Shannon canlandırırken kadrodaki diğer isimler arasında Lois Lane rolünde Amy Adams, Martha Kent rolünde Diane Lane, Jonathan Kent rolünde Kevin Costner ve Jor-El rolünde de Russell Crowe yer alıyor. Yeni Superman filminde Clark, nasıl kullanacağını hiç bilmediği, birtakım sıra dışı güçlere sahip bir çocuktur. Bir gün okul servisi bir kaza geçirip, içinde çocuklarla birlikte nehre uçar. Servisin içindekilerin ölmesine göz yumamayan Clark, güçlerini kullanarak herkesi kurtarır. Fakat bu olay onun diğerlerinden oldukça farklı bir çocuk olduğunu da bariz biçimde ortaya çıkartacaktır. Kendisini keşfestmek için çıktığı yolculuk, dünya insanlarına umut sembolü olması için de atacağı ilk adımdır..."
+	},
+	{
+		"FilmName": "Prison Break",
+		"Country": "ABD",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/prison.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/prisonHeader.jpg",
+		"Type": "Gerilim",
+		"CategoryId" : 7,
+		"Duration": "5 sezon - 84 bölüm / 42dk",
+		"ReleaseDate": "2005-2017",
+		"Director": "Paul Scheuring",
+		"IMDB": "8,3",
+		"Plot": "Haksız yere suçlandığını düşündüğü abisini hapishaneden kurtarmak isteyen Michael Scofield, nerdeyse kusursuz bir plan yapar. Lincoln Burrowsa yüklenen suç, kendilerini temize çıkarabilecekleri bir suç değildir. Devletin de işin içine karıştığını öğrendiklerinde kaçmaktan başka çareleri kalmaz. Michael planını uygulamaya sokar ve kaçış başlar."
 	}
 	
 ]
