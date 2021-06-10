@@ -1,4 +1,4 @@
-﻿[
+[
 	{
 		"FilmName": "Breaking Bad",
 		"Country": "ABD",
@@ -514,8 +514,8 @@
 	{
 		"FilmName": "Çelik Adam (Men of Steel)",
 		"Country": "ABD, İngiltere",
-		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/menofsteel.jpg",
-		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/menofsteel_header.jpg",
+		"ImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/manofsteel.jpg",
+		"HeaderImageURL": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/manofsteel_header.jpg",
 		"Type": "Macera",
 		"CategoryId" : 2,
 		"Duration": "2sa 23dk",
