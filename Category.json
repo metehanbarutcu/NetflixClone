@@ -2,7 +2,7 @@
 	{
 		"CategoryId" : 1,
 		"CategoryName": "Dram",
-		"Desc": "Trajik film ve diziler..",
+		"Desc": "Trajedi dolu film ve diziler..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/dram.jpg"
 	},
 
@@ -49,7 +49,7 @@
 	{
 		"CategoryId" : 8,
 		"CategoryName": "Tarih",
-		"Desc": "Tarihe damga vuran olaylarin hikayeleri..",
+		"Desc": "Tarihe damga vuran olaylarýn hikayeleri..",
 		"ImageUrl": "https://raw.githubusercontent.com/metehanbarutcu/NetflixClone/main/history.jpg"
 	}
 
